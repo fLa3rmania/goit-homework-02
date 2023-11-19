@@ -94,18 +94,15 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.64px;
 background-color: #4D5AE5;
-}
-
-
-.button-order:hover
-.button-order:focus {
-    border-radius: 4px;
-background: #404BBF
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 cursor: pointer;
 }
 
-.Strategy-title {
+.button-order:hover
+.button-order:focus {
+    color: #404BBF;
+}
+
+.strategy-title {
     color: #2E2F42;
 font-family: Roboto;
 font-size: 20px;
@@ -114,7 +111,7 @@ line-height: 1.2;
 letter-spacing: 0.4px;
 }
 
-.Punctuality-title {
+.punctuality-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -123,7 +120,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Diligence-title {
+.diligence-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -132,7 +129,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Technologies-title {
+.technologies-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -141,7 +138,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Strategy-text {
+.strategy-text {
     color: #434455;
 font-family: Roboto;
 font-size: 16px;
@@ -150,7 +147,7 @@ line-height: 1.5;
 letter-spacing: 0.32px;
 }
 
-.Punctuality-text {
+.punctuality-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -159,7 +156,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Diligence-text {
+.diligence-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -168,7 +165,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Technologies-text {
+.technologies-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -181,7 +178,7 @@ letter-spacing: 0.32px;
     background:#F4F4FD;
 }
 
-.Team-title {
+.our-team-title {
     color: #2E2F42;
 text-align: center;
 font-family: Roboto;
@@ -193,7 +190,7 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 }
 
-.Mark-title {
+.mark-title {
     color: #2E2F42;
 text-align: center;
 font-family: Roboto;
@@ -203,7 +200,7 @@ line-height: 1.2;
 letter-spacing: 0.4px;
 }
 
-.Tom-title {
+.tom-title {
     color: #2E2F42;
     text-align: center;
     font-family: Roboto;
@@ -213,7 +210,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Camila-title {
+.camila-title {
     color: #2E2F42;
     text-align: center;
     font-family: Roboto;
@@ -223,7 +220,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Daniel-title {
+.daniel-title {
     color: #2E2F42;
     text-align: center;
     font-family: Roboto;
@@ -233,7 +230,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Mark-text {
+.mark-text {
     color: #434455;
 text-align: center;
 font-family: Roboto;
@@ -243,7 +240,7 @@ line-height: 1.5;
 letter-spacing: 0.32px;
 }
 
-.Tom-text {
+.tom-text {
     color: #434455;
     text-align: center;
     font-family: Roboto;
@@ -253,7 +250,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Camila-text {
+.camila-text {
     color: #434455;
     text-align: center;
     font-family: Roboto;
@@ -263,7 +260,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Daniel-text {
+.daniel-text {
     color: #434455;
     text-align: center;
     font-family: Roboto;
@@ -273,7 +270,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Portfolio-title {
+.our-portfolio-title {
     color: #2E2F42;
 text-align: center;
 font-family: Roboto;
@@ -284,7 +281,7 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 }
 
-.Bank-title {
+.bank-title {
     color: #2E2F42;
 font-family: Roboto;
 font-size: 20px;
@@ -293,7 +290,7 @@ line-height: 1.2;
 letter-spacing: 0.4px;
 }
 
-.Payment-title {
+.payment-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -302,7 +299,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Meditation-title {
+.meditation-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -311,7 +308,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Taxi-title {
+.taxi-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -320,7 +317,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Screen-title {
+.screen-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -329,7 +326,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Courses-title {
+.courses-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -338,7 +335,7 @@ letter-spacing: 0.4px;
     letter-spacing: 0.4px;
 }
 
-.Bank-text {
+.bank-text {
     color: #434455;
 font-family: Roboto;
 font-size: 16px;
@@ -347,7 +344,7 @@ line-height: 1.5;
 letter-spacing: 0.32px;
 }
 
-.Payment-text {
+.payment-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -356,7 +353,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Meditation-text {
+.meditation-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -365,7 +362,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Taxi-text {
+.taxi-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -374,7 +371,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Screen-text {
+.screen-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -383,7 +380,7 @@ letter-spacing: 0.32px;
     letter-spacing: 0.32px;
 }
 
-.Courses-text {
+.courses-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -416,7 +413,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
-.Studio-footer {
+.studio-footer-span {
     color: #F4F4FD;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
