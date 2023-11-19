@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #434455
     background-color: #ffffff;
+    color: #434455
 }
 
 ul, ol {
@@ -175,7 +175,7 @@ letter-spacing: 0.32px;
 }
 
 .section-team {
-    background:#F4F4FD;
+    background:#FFFFFF;
 }
 
 .our-team-title {
